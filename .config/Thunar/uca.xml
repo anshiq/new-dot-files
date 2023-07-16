@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Open Terminal Here</name>
+	<submenu></submenu>
+	<unique-id>1673628421404228-1</unique-id>
+	<command>/usr/bin/gnome-terminal %f</command>
+	<description>Example for a custom action</description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon>vscodium</icon>
+	<name>Open with code </name>
+	<submenu></submenu>
+	<unique-id>1673714074449788-1</unique-id>
+	<command>/usr/bin/code %f</command>
+	<description></description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+</action>
+</actions>
