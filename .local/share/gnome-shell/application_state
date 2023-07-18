@@ -1,18 +1,21 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Terminal.Preferences.desktop" score="10" last-seen="1689322892"/>
-    <application id="microsoft-edge-beta.desktop" score="263" last-seen="1689434236"/>
-    <application id="org.gnome.Nautilus.desktop" score="97" last-seen="1689477907"/>
-    <application id="org.gnome.Extensions.desktop" score="50" last-seen="1689434395"/>
     <application id="org.gnome.tweaks.desktop" score="5" last-seen="1689315059"/>
-    <application id="gnome-system-monitor.desktop" score="26" last-seen="1689246628"/>
-    <application id="code.desktop" score="559" last-seen="1689395200"/>
-    <application id="xfce4-terminal.desktop" score="1" last-seen="1689322941"/>
+    <application id="org.gnome.TextEditor.desktop" score="41" last-seen="1689485661"/>
     <application id="thunar.desktop" score="8" last-seen="1689395202"/>
-    <application id="firefox-esr.desktop" score="917" last-seen="1689477379"/>
-    <application id="org.gnome.Terminal.desktop" score="1437" last-seen="1689477907"/>
-    <application id="org.gnome.Settings.desktop" score="12" last-seen="1689397962"/>
-    <application id="org.gnome.TextEditor.desktop" score="39" last-seen="1689396748"/>
+    <application id="org.gnome.Terminal.Preferences.desktop" score="10" last-seen="1689322892"/>
+    <application id="org.gnome.eog.desktop" score="0" last-seen="1689485326"/>
+    <application id="org.gnome.Nautilus.desktop" score="217" last-seen="1689661079"/>
+    <application id="default-browser.desktop" score="0" last-seen="0"/>
+    <application id="gnome-wifi-panel.desktop" score="0" last-seen="0"/>
+    <application id="xfce4-terminal.desktop" score="1" last-seen="1689322941"/>
+    <application id="org.gnome.Terminal.desktop" score="2958" last-seen="1689682365"/>
+    <application id="microsoft-edge-beta.desktop" score="266" last-seen="1689659598"/>
+    <application id="gnome-system-monitor.desktop" score="46" last-seen="1689661033"/>
+    <application id="code.desktop" score="627" last-seen="1689658777"/>
+    <application id="org.gnome.Extensions.desktop" score="50" last-seen="1689434395"/>
+    <application id="firefox-esr.desktop" score="2567" last-seen="1689682439"/>
+    <application id="org.gnome.Settings.desktop" score="2848" last-seen="1689678944"/>
   </context>
 </application-state>
